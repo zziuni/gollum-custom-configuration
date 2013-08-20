@@ -8,7 +8,7 @@
 Rack-compatible server를 위한 config 파일. wiki-option 설정을 위해 사용중.
 
 ### custom.css
-`--css` 옵션 활성화시 사용되는 css파일. Wiki Theme 재 설정.
+`--css` 옵션 활성화시 사용되는 css파일. Wiki Theme 재 설정. 보색은 [colorhexa.com](http://colorhexa.com)에서 따왔으나 겁나 못생김. 기능위주로만 구현.
 
 ### custom.jr
-`--js` 옵션 활성화시 사용되는 js 파일. 지금은 `position:fixed`인 TOC 설정을 위해 사용 중.
+`--js` 옵션 활성화시 사용되는 js 파일. 지금은 `position:fixed`인 TOC 설정을 위해 사용 중. 그냥 동작에 만족.
